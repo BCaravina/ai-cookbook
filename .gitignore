@@ -100,5 +100,3 @@ lancedb/
 
 # Exclude temporary files
 temp/
-.env.example
-.env.example
